@@ -1,0 +1,21 @@
+div{
+    background-color: purple;
+}
+h1{
+    color:salmon;
+}
+.pi{
+    color:pink;
+}
+.bl{
+    color: skyblue;
+}
+#wh{
+    color: snow;
+}
+div[name="nik"]{
+    background-color: green;
+}
+[name="nik"],[name="p1"]{
+    background-color: red;
+}
